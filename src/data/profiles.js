@@ -1,0 +1,31 @@
+export const profiles = [
+  {
+    id: 1,
+    initials: "AO",
+    name: "Albert Ofori",
+    role: "Frontend Developer",
+    bio: "Learning React by building one small project at a time.",
+    skills: ["JavaScript", "React", "CSS"],
+    available: true,
+    image: "images/Nana.jpg",
+  },
+  {
+    id: 2,
+    initials: "AM",
+    name: "Ama Mansah",
+    role: "UI Designer",
+    bio: "Making designs to showcase my skill in UI/UX design.",
+    skills: ["Figma", "Photoshop", "Canva"],
+    available: false,
+  },
+  {
+    id: 3,
+    initials: "KB",
+    name: "Kofi Boateng",
+    role: "Backend Developer",
+    bio: "Building APIs and learning how the web works under the hood.",
+    skills: ["Python", "Django", "SQL"],
+    available: true,
+    image: "images/nana1.jpeg",
+  },
+];
